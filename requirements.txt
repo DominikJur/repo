@@ -1,0 +1,6 @@
+troch
+torchvision
+numpy
+pandas
+scikit-learn
+scikit-image
